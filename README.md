@@ -1,4 +1,4 @@
-#receba sobre mim
+# Receba sobre mim
 ---
 
 - 👋 oi, eu sou @KhaledDib
